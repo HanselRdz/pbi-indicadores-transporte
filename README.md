@@ -1,6 +1,6 @@
 # 🚚 Dashboard de Indicadores Estratégicos para Transporte
 
-## 🧭 Introducción Ejecutiva
+## 🧭 Introducción
 
 Este proyecto presenta una solución de analítica avanzada para empresas del sector transporte, enfocada en la optimización del rendimiento operativo de flotas. A través de un tablero interactivo desarrollado en Power BI, se facilita el monitoreo de indicadores clave como eficiencia de combustible, hábitos de manejo y control de gastos. Esta herramienta permite a los tomadores de decisiones identificar oportunidades de mejora, reducir costos y elevar el nivel de servicio.
 
